@@ -1,8 +1,13 @@
 #include<iostream>
 using namespace std;
 
-int main()
+void sayhello()
 {
   cout<<"hello"<<endl;
+}
+
+int main()
+{
+  sayhello();
   return 0;
 }

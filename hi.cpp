@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
 
-void sayhello()
+void sayhi()
 {
   cout<<"hello"<<endl;
 }
 
 int main()
 {
-  sayhello();
+  sayhi();
   return 0;
 }
